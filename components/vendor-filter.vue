@@ -194,11 +194,6 @@ export default {
     padding-left: 20px;
   }
 
-  &__item-content {
-    width: 100%;
-    min-width: 100%;
-  }
-
   &__photo {
     height: 38px;
     padding: 0 16px 0 4px;
