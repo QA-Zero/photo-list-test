@@ -157,6 +157,7 @@ export default {
     margin: 0 0.5rem;
     text-decoration: underline;
     cursor: pointer;
+    user-select: none;
 
     &.active {
       color: #0000ff;
