@@ -157,6 +157,7 @@ export default {
     margin: 0 0.5rem;
     text-decoration: underline;
     cursor: pointer;
+    user-select: none;
 
     &.active {
       color: #0000ff;
@@ -192,11 +193,6 @@ export default {
   &__item-name {
     margin-bottom: 8px;
     padding-left: 20px;
-  }
-
-  &__item-content {
-    width: 100%;
-    min-width: 100%;
   }
 
   &__photo {
