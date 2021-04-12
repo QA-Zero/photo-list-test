@@ -1,1 +1,2 @@
-# photo-list-test
+# The notise:
+Lists for display "Default" and with the filter "Albums" are obtained by cutting off the original list. In view of the fact that they have different grouping rules, the algorithms for filling by photos also are different. As a result, the contents of this lists only partially overlap. The "Favorites" filter is taken on the basis of the "Default" list, so all the selected photos from the "Default", but only a few of the "Albums" are included there.
