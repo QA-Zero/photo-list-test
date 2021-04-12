@@ -186,7 +186,7 @@ export default {
   }
 
   &__item {
-    margin-bottom: 24px;
+    margin-bottom: 32px;
     -webkit-column-break-inside: avoid;
   }
 
